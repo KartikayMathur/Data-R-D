@@ -1,0 +1,16 @@
+Scraper Logs
+2024-12-27 00:00:23.584113: Starting scraping...
+2024-12-27 00:00:25.068465: Invalid URL: http://www.krutiinteriordesign.com
+2024-12-27 00:00:25.219094: Invalid URL: http://www.iointeriors.in
+2024-12-27 00:00:26.154623: Invalid URL: https://instagram.com
+2024-12-27 00:00:28.770302: Invalid URL: http://aandfdesign.com
+2024-12-27 00:00:29.769906: Invalid URL: http://www.aakrutiarchitects.com
+2024-12-27 00:00:29.892097: Invalid URL: http://www.aarchionstudio.com
+2024-12-27 00:00:31.006681: Invalid URL: http://adesignarchitects.com
+2024-12-27 00:00:31.018998: Scraping: http://www.aasthadesigners.com
+2024-12-27 00:00:31.024580: Scraping: https://jinteriordesign.in
+2024-12-27 00:00:31.024580: Scraping: https://www.intprojects.com
+2024-12-27 00:00:31.629190: Error: 'AdvancedImageScraper' object has no attribute 'exclude_patterns_var'
+2024-12-27 00:00:32.351617: Error: 'AdvancedImageScraper' object has no attribute 'exclude_patterns_var'
+2024-12-27 00:00:32.926947: Error: 'AdvancedImageScraper' object has no attribute 'exclude_patterns_var'
+2024-12-27 00:00:32.926947: Scraping completed!

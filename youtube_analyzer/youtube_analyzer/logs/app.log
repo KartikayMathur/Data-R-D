@@ -1,0 +1,10 @@
+2024-12-27 00:11:55,100 - INFO - ====== WebDriver manager ======
+2024-12-27 00:11:56,298 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-27 00:11:57,037 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-27 00:11:57,793 - INFO - Driver [C:\Users\Karti\.wdm\drivers\chromedriver\win64\131.0.6778.204\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-12-27 00:11:57,797 - ERROR - Error occurred: [WinError 193] %1 is not a valid Win32 application
+2024-12-27 00:12:47,315 - INFO - ====== WebDriver manager ======
+2024-12-27 00:12:48,526 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-27 00:12:49,302 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-27 00:12:50,065 - INFO - Driver [C:\Users\Karti\.wdm\drivers\chromedriver\win64\131.0.6778.204\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-12-27 00:12:50,070 - ERROR - Error occurred: [WinError 193] %1 is not a valid Win32 application

@@ -1,0 +1,8 @@
+2024-12-27 22:36:49,535 - INFO - Checking for required dependencies...
+2024-12-27 22:36:50,168 - INFO - Installing missing packages: Pillow
+2024-12-27 22:36:55,119 - INFO - Installed Pillow
+2024-12-27 22:36:55,119 - INFO - All dependencies are installed.
+2024-12-27 22:36:57,266 - INFO - patching driver executable C:\Users\Karti\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-12-27 22:36:59,470 - INFO - Searching YouTube for channels matching: laptop
+2024-12-27 22:37:20,005 - INFO - Discovered 0 channel(s).
+2024-12-27 22:37:20,013 - INFO - No channel data to save.
